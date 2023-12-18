@@ -1,0 +1,1 @@
+The Reflex Tester code can be implemented on an STM32F429-disc1 board. The code will generate three levels on the board's LCD screen and is intended to test the reaction time of the user when presented with visual stimuli. This code also utlizes the STM's HAL files.
