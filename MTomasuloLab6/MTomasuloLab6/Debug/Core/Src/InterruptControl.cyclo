@@ -1,0 +1,5 @@
+../Core/Src/InterruptControl.c:19:6:IRQ_enable	3
+../Core/Src/InterruptControl.c:29:6:IRQ_disable	3
+../Core/Src/InterruptControl.c:39:6:IRQ_setPending	3
+../Core/Src/InterruptControl.c:49:6:IRQ_clearPending	3
+../Core/Src/InterruptControl.c:59:6:clearInterruptPendingBit	1
